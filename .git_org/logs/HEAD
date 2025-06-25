@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 ac171f90dea0e5779f8df776ef3a35b147758ae2 Darryl <darryl1975@hotmail.com> 1692694056 +0800	commit (initial): first commit
+ac171f90dea0e5779f8df776ef3a35b147758ae2 0000000000000000000000000000000000000000 Darryl <darryl1975@hotmail.com> 1692694091 +0800
+ac171f90dea0e5779f8df776ef3a35b147758ae2 4ef969060c23b44489d7b3e7415b956a46a99936 Darryl <darryl1975@hotmail.com> 1692717118 +0800	commit: update pom with sonar properties
+4ef969060c23b44489d7b3e7415b956a46a99936 532403776991cc8dd92a024f3d3baa66dd9c21be Darryl <darryl1975@hotmail.com> 1692717718 +0800	commit: updated pom file for jacoco support
+532403776991cc8dd92a024f3d3baa66dd9c21be f035fbfd952f9a01fa33bb4a3b6d1a1f6d00963c Darryl <darryl1975@hotmail.com> 1692717732 +0800	pull: Merge made by the 'recursive' strategy.
+f035fbfd952f9a01fa33bb4a3b6d1a1f6d00963c ef07aa0ce11425797eb0e0abb7248f1e95cc0988 Darryl <darryl1975@hotmail.com> 1692718040 +0800	commit: updated pom file for jacoco support
+ef07aa0ce11425797eb0e0abb7248f1e95cc0988 583df9213313990aeb36e795218f66e6b0c22b02 Darryl <darryl1975@hotmail.com> 1692748404 +0800	commit: change bild to test workflow
+583df9213313990aeb36e795218f66e6b0c22b02 6e43e5ba060319cad8eb93c6f2b6aa8cf7e5936d darryl1975 <darryl1975@hotmail.com> 1693379711 +0800	commit: added snyk config to workflow
+6e43e5ba060319cad8eb93c6f2b6aa8cf7e5936d 465544309d5ee71ba116070ec2254700611259c6 darryl1975 <darryl1975@hotmail.com> 1693379923 +0800	commit: commented upload of SARIF
+465544309d5ee71ba116070ec2254700611259c6 da3a10fa5541f3bcd28a4ee900f1887bef73d3af darryl1975 <darryl1975@hotmail.com> 1693449672 +0800	commit: changed to version 19
+da3a10fa5541f3bcd28a4ee900f1887bef73d3af 55e2cbc8b797fe4918782406fc81909c05998791 darryl1975 <darryl1975@hotmail.com> 1696835001 +0800	commit: update maven.yml with deployment to aws
+55e2cbc8b797fe4918782406fc81909c05998791 30aaa236f1055b6e31c3730b03dbf483da4fc416 darryl1975 <darryl1975@hotmail.com> 1696835184 +0800	commit: update maven.yml with deployment to aws
+30aaa236f1055b6e31c3730b03dbf483da4fc416 58f6379c898dd2886994b1e973b9be54b34069f2 darryl1975 <darryl1975@hotmail.com> 1696835831 +0800	commit: update maven.yml with build change to JDK 11 for deployment to aws
+58f6379c898dd2886994b1e973b9be54b34069f2 861e673a1a9a4f7f625809a9c7e14860ece8243f darryl1975 <darryl1975@hotmail.com> 1696836126 +0800	commit: update maven.yml with build change to JDK 19 for deployment to aws
+861e673a1a9a4f7f625809a9c7e14860ece8243f 8b517a6dbf5be037e0018bbb1d6f149efe0f6408 darryl1975 <darryl1975@hotmail.com> 1696836216 +0800	commit: update maven.yml with build change to JDK 19 for deployment to aws
+8b517a6dbf5be037e0018bbb1d6f149efe0f6408 70f303761c4f000abfa9580fba9278f9fe4514a5 darryl1975 <darryl1975@hotmail.com> 1696836495 +0800	commit: update maven.yml with build change to JDK 11 for deployment to aws
+70f303761c4f000abfa9580fba9278f9fe4514a5 37fcf96362b57483f5331b6a719cce43a6a8cf00 darryl1975 <darryl1975@hotmail.com> 1696836652 +0800	commit: update maven.yml with build change to JDK 11 for deployment to aws
+37fcf96362b57483f5331b6a719cce43a6a8cf00 4087af04c3e8692ae2c8a5533f48e82879c14f64 darryl1975 <darryl1975@hotmail.com> 1696838038 +0800	commit: update maven.yml with build change to JDK 11 for deployment to aws
+4087af04c3e8692ae2c8a5533f48e82879c14f64 0a7bb1e4a1a102db0581d8dc56adc15e229c18a3 darryl1975 <darryl1975@hotmail.com> 1696907197 +0800	commit: update maven.yml with build change to JDK 17 for deployment to aws
+0a7bb1e4a1a102db0581d8dc56adc15e229c18a3 ca48de8b493ed1e5ee838156f42d467ba5156969 darryl1975 <darryl1975@hotmail.com> 1698391634 +0800	commit: convert to war packaging
+ca48de8b493ed1e5ee838156f42d467ba5156969 f3f4e0afc3e54c8819fcdfae9dbf21804c69f062 darryl1975 <darryl1975@hotmail.com> 1698392149 +0800	commit: updated buildspec.yml
+f3f4e0afc3e54c8819fcdfae9dbf21804c69f062 92ae3072abbae56bfd111b52b311dc989cf0ab53 darryl1975 <darryl1975@hotmail.com> 1698392543 +0800	commit: updated buildspec.yml
+92ae3072abbae56bfd111b52b311dc989cf0ab53 e16a23f110b89959a5ad13fe81579633bad10a33 darryl1975 <darryl1975@hotmail.com> 1698392612 +0800	commit: updated buildspec.yml
+e16a23f110b89959a5ad13fe81579633bad10a33 55e56040476bfa1cd6eb7cc6adcc9aac582c1f48 darryl1975 <darryl1975@hotmail.com> 1698457057 +0800	commit: update buildspec and add appspec
+55e56040476bfa1cd6eb7cc6adcc9aac582c1f48 0d1019e0bd77d11d106843e5d5c035e17d3cf7c4 darryl1975 <darryl1975@hotmail.com> 1698458586 +0800	commit: update buildspec wrong target name
+0d1019e0bd77d11d106843e5d5c035e17d3cf7c4 4aadf56504084f2d63aa613ed44df6223d2d4bef darryl1975 <darryl1975@hotmail.com> 1698459829 +0800	commit: added scripts and update app and build spec
+4aadf56504084f2d63aa613ed44df6223d2d4bef 354dbe5cde16da0958a18d446dbc11fcfc18398d darryl1975 <darryl1975@hotmail.com> 1698460764 +0800	commit: update war to jar and target jar folder
+354dbe5cde16da0958a18d446dbc11fcfc18398d 3f6a2a774a2c50a96ebc327734a9a89bebac4714 darryl1975 <darryl1975@hotmail.com> 1713496573 +0800	commit: added .mvn folder
+3f6a2a774a2c50a96ebc327734a9a89bebac4714 7102e7739c314d58e9d3576ca70d6eb7b40a880b darryl1975 <darryl1975@hotmail.com> 1713496845 +0800	commit: added mvn , rename to .mvn
+7102e7739c314d58e9d3576ca70d6eb7b40a880b 52a3d74e2292e64b370e7731ce523ac1bd018485 darryl1975 <darryl1975@hotmail.com> 1716448363 +0800	commit: updated workflow page 23
+52a3d74e2292e64b370e7731ce523ac1bd018485 2a0644f1d6d1b96f05b50f7e9e3a9b7263e1b90a darryl1975 <darryl1975@hotmail.com> 1716449219 +0800	commit: updated sonar
+2a0644f1d6d1b96f05b50f7e9e3a9b7263e1b90a 011f3870bda611cab4d7b61c05a8629685bdc31a darryl1975 <darryl1975@hotmail.com> 1716449719 +0800	commit: updated sonar code coverage
+011f3870bda611cab4d7b61c05a8629685bdc31a e02ba32cc2743b795960b26297d7041d465b0160 darryl1975 <darryl1975@hotmail.com> 1716449754 +0800	commit: updated sonar code coverage
+e02ba32cc2743b795960b26297d7041d465b0160 0c4ae7cf00dc47578f588bcd335a2d310f689430 darryl1975 <darryl1975@hotmail.com> 1716449989 +0800	commit: updated sonar code coverage
+0c4ae7cf00dc47578f588bcd335a2d310f689430 4a8dde34b9220df98de008b3e2e2aba48ab1fcc3 darryl1975 <darryl1975@hotmail.com> 1716450320 +0800	commit: check in updated pom.xml
+4a8dde34b9220df98de008b3e2e2aba48ab1fcc3 910c3db5127cab23cba76c19dd9ed5e6d7fa7783 darryl1975 <darryl1975@hotmail.com> 1716450563 +0800	commit: updated pom.xml for jacoco report output
+910c3db5127cab23cba76c19dd9ed5e6d7fa7783 3608673b87b10ba8544739a829b2d95cf2336f7a darryl1975 <darryl1975@hotmail.com> 1716451495 +0800	commit: udpate sonar maven.yml
+3608673b87b10ba8544739a829b2d95cf2336f7a 66a830c870e725cd224fd83b6560e815b650f8cc darryl1975 <darryl1975@hotmail.com> 1716452110 +0800	commit: update maven.yml on snyk.io
+66a830c870e725cd224fd83b6560e815b650f8cc 68f98587e37d7a433a8916982cbc2ae6432253c2 darryl1975 <darryl1975@hotmail.com> 1716564838 +0800	commit: added build after sonar
+68f98587e37d7a433a8916982cbc2ae6432253c2 c6b87cee9a921314d317cc1141e921ea51fc7610 darryl1975 <darryl1975@hotmail.com> 1716565008 +0800	commit: added build after sonar
+c6b87cee9a921314d317cc1141e921ea51fc7610 410079d68ed42c8cd31845a29e05543b6dd04d85 darryl1975 <darryl1975@hotmail.com> 1716566528 +0800	commit: deploy after build and sonar
+410079d68ed42c8cd31845a29e05543b6dd04d85 410079d68ed42c8cd31845a29e05543b6dd04d85 Darryl Ng Eng Soon <Darryl@Darryls-MacBook-Air.local> 1750816022 +0800	checkout: moving from main to update-name
+410079d68ed42c8cd31845a29e05543b6dd04d85 2e3c4c6618d2d2d7bc8f0bd2a8f39e3e8a345b1d Darryl Ng Eng Soon <Darryl@Darryls-MacBook-Air.local> 1750816173 +0800	commit: added test
